@@ -3,3 +3,10 @@
 - Probability
 - calculus
 - statistical
+- Features
+- Loss Function
+- Binary Cross-Entropy
+- Maximum Likelihood
+- Linear Classifier
+- Multinomial Model
+- Hight-dimensional Data
